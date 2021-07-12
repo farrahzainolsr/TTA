@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+cat_no,varchar(10),NO,PRI,NULL,
+wr_no,varchar(7),NO,UNI,NULL,
+mass,"decimal(10,3)",YES,,NULL,
+NT_emitter,tinyint(1),YES,,0,
+Radio_lum,int(11),YES,,NULL,
